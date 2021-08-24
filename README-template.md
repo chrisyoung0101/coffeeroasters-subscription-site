@@ -58,6 +58,7 @@ create GitHub repo - set up in VS Code
 setting up the challenge
 rename start-code as src
 deploy now in Netlify
+uh oh : 404 page not found
 
 ### Built with
 
