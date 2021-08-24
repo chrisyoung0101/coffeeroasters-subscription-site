@@ -60,6 +60,7 @@ rename start-code as src
 deploy now in Netlify
 uh oh : 404 page not found
 solved : index.html in root directory now not in something like a src directory (...but should probably use a 'src' directory for file organization)
+note : got it deployed without adding any config to Build settings
 site URL : https://vigorous-lalande-1da652.netlify.app/
 
 ### Built with
